@@ -68,6 +68,9 @@ table(predictedSpam, testSpam$type)
 #Organizing your analysis
 
 
+#Week 2---------------------------------------------------------------------------
+
+
 
 
 
